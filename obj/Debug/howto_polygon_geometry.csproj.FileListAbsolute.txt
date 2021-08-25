@@ -1,0 +1,9 @@
+C:\Users\ssuma\Downloads\howto_polygon_geometry\bin\Debug\howto_polygon_geometry.exe
+C:\Users\ssuma\Downloads\howto_polygon_geometry\bin\Debug\howto_polygon_geometry.pdb
+C:\Users\ssuma\Downloads\howto_polygon_geometry\obj\Debug\howto_polygon_geometry.csprojAssemblyReference.cache
+C:\Users\ssuma\Downloads\howto_polygon_geometry\obj\Debug\howto_polygon_geometry.Form1.resources
+C:\Users\ssuma\Downloads\howto_polygon_geometry\obj\Debug\howto_polygon_geometry.Properties.Resources.resources
+C:\Users\ssuma\Downloads\howto_polygon_geometry\obj\Debug\howto_polygon_geometry.csproj.GenerateResource.cache
+C:\Users\ssuma\Downloads\howto_polygon_geometry\obj\Debug\howto_polygon_geometry.csproj.CoreCompileInputs.cache
+C:\Users\ssuma\Downloads\howto_polygon_geometry\obj\Debug\howto_polygon_geometry.exe
+C:\Users\ssuma\Downloads\howto_polygon_geometry\obj\Debug\howto_polygon_geometry.pdb
