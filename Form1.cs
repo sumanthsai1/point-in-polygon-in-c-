@@ -122,11 +122,13 @@ namespace howto_polygon_geometry
                 // See if the point is in the polygon.
                 if (pgon.PointInPolygon(pt.X, pt.Y))
                 {
+                    gr.FillEllipse(Brushes.Lime, rect);
                     MessageBox.Show("The point is inside the polygon", "Inside",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 else
                 {
+                    gr.FillEllipse(Brushes.Red, rect);
                     MessageBox.Show("The point is outside the polygon", "Outside",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
